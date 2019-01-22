@@ -1,6 +1,6 @@
-package test;
+package test.staticordertest;
 
- public class CodeBlock {
+public class CodeBlock {
 
      static{
          System.out.println("静态代码块2");

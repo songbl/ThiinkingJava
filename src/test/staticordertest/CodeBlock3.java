@@ -1,4 +1,4 @@
-package test;
+package test.staticordertest;
 
 public class CodeBlock3 {
 
